@@ -1,14 +1,14 @@
 {
   "name": "WP Questionnaires",
   "slug": "wp-questionnaires",
-  "version": "1.11.48",
+  "version": "1.11.50",
   "author": "Alltime Technologies Ltd",
   "author_homepage": "https://alltimetech.co.uk",
   "requires": "6.4",
   "tested": "6.7",
   "requires_php": "8.1",
   "download_url": "https://alltimeuk.github.io/wp-updates/wp-questionnaires/wp-questionnaires-latest.zip",
-  "last_updated": "2026-07-08",
+  "last_updated": "2026-07-09",
   "homepage": "https://alltimetech.co.uk",
   "sections": {
     "description": "Assessment and lead generation platform. Publishes scored questionnaires, captures leads, syncs to HaloPSA, and sells branded PDF reports via Stripe."
