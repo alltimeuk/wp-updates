@@ -4,5 +4,11 @@
     "name": "WP Questionnaires",
     "description": "Assessment and lead generation platform. Publishes scored questionnaires, captures leads, syncs to HaloPSA, and sells branded PDF reports via Stripe.",
     "homepage": "https://alltimetech.co.uk"
+  },
+  {
+    "slug": "wp-reconnaissance",
+    "name": "WP Reconnaissance",
+    "description": "A self-service customer portal through which a prospective or existing customer can create an account, submit an authorised domain, obtain a free Domain Reconnaissance assessment and receive a formal report with a prioritised remediation plan.",
+    "homepage": "https://alltimetech.co.uk"
   }
 ]
