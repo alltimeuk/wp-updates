@@ -1,14 +1,14 @@
 {
   "name": "WP Questionnaires",
   "slug": "wp-questionnaires",
-  "version": "1.20.13",
+  "version": "1.20.14",
   "author": "Simon Jackson @ Alltime Technologies Ltd",
   "author_homepage": "https://alltimetech.co.uk",
   "requires": "6.4",
   "tested": "6.7",
   "requires_php": "8.1",
-  "download_url": "https://alltimeuk.github.io/wp-updates/wp-questionnaires/wp-questionnaires-v1.20.13.zip",
-  "sha256": "cda3abb9fc7272ab0177ddb507cfb28c40acf7deb3e11e5d8990a0b4492d1c9d",
+  "download_url": "https://alltimeuk.github.io/wp-updates/wp-questionnaires/wp-questionnaires-v1.20.14.zip",
+  "sha256": "41b8d86c6b282028682c706e285e2689278539dc1d6fdc329aa39fd5c034e30b",
   "last_updated": "2026-08-18",
   "homepage": "https://alltimetech.co.uk",
   "sections": {
