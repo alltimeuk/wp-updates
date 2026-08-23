@@ -1,17 +1,17 @@
 {
   "name": "WP Questionnaires",
   "slug": "wp-questionnaires",
-  "version": "1.20.22",
+  "version": "1.20.23",
   "author": "Simon Jackson @ Alltime Technologies Ltd",
   "author_homepage": "https://alltimetech.co.uk",
   "requires": "6.4",
   "tested": "6.7",
   "requires_php": "8.1",
-  "download_url": "https://alltimeuk.github.io/wp-updates/wp-questionnaires/wp-questionnaires-v1.20.22.zip",
-  "sha256": "d18f9200add1f5e17fabb16f372a266a27d0b426d723855665c015a2c1320a99",
+  "download_url": "https://alltimeuk.github.io/wp-updates/wp-questionnaires/wp-questionnaires-v1.20.23.zip",
+  "sha256": "ebaaa80b8339b0588380261fe8b117105da4782351ad6fc9f3212d58f65b90a2",
   "last_updated": "2026-08-23",
   "homepage": "https://alltimetech.co.uk",
   "sections": {
-    "description": "Assessment and lead-generation platform with a canonical contact master. Publishes scored questionnaires with save & resume, captures leads and enquiries, generates AI-driven questionnaire reports and remediation plans, delivers email via wp_mail/Gmail/SES, and sells branded PDF reports via Stripe — with HaloPSA sync throughout."
+    "description": "Assessment and lead-generation platform with a canonical contact master. Publishes scored questionnaires with save & resume, captures leads and enquiries, generates AI-driven questionnaire reports and remediation plans, delivers email via wp_mail/Gmail/SES, and sells branded PDF reports via Stripe - with HaloPSA sync throughout."
   }
 }
