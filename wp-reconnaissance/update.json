@@ -1,14 +1,14 @@
 {
   "name": "WP Reconnaissance",
   "slug": "wp-reconnaissance",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "author": "Alltime Technologies Ltd",
   "author_homepage": "https://alltimetech.co.uk",
   "requires": "6.6",
   "tested": "6.6",
   "requires_php": "8.2",
-  "download_url": "https://alltimeuk.github.io/wp-updates/wp-reconnaissance/wp-reconnaissance-v0.1.15.zip",
-  "sha256": "4c441bc883274f8fbce18b09efef73a77644959565248e2f90f275a08f1c9f56",
+  "download_url": "https://alltimeuk.github.io/wp-updates/wp-reconnaissance/wp-reconnaissance-v0.1.16.zip",
+  "sha256": "07ac23900d4aa866f9e42e8a09f1cd4c002728beb2bc1dc7aa16a9b66945b09c",
   "last_updated": "2026-09-08",
   "homepage": "https://alltimetech.co.uk",
   "sections": {
