@@ -1,15 +1,15 @@
 {
   "name": "WP Reconnaissance",
   "slug": "wp-reconnaissance",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "author": "Alltime Technologies Ltd",
   "author_homepage": "https://alltimetech.co.uk",
   "requires": "6.6",
   "tested": "6.6",
   "requires_php": "8.2",
-  "download_url": "https://alltimeuk.github.io/wp-updates/wp-reconnaissance/wp-reconnaissance-v0.1.16.zip",
-  "sha256": "07ac23900d4aa866f9e42e8a09f1cd4c002728beb2bc1dc7aa16a9b66945b09c",
-  "last_updated": "2026-09-08",
+  "download_url": "https://alltimeuk.github.io/wp-updates/wp-reconnaissance/wp-reconnaissance-v0.1.17.zip",
+  "sha256": "49b9e0952ab35823568ee6a83fe64a9a2206ded0ce59357165ddcdec50b00cb0",
+  "last_updated": "2026-09-09",
   "homepage": "https://alltimetech.co.uk",
   "sections": {
     "description": "Self-service domain reconnaissance customer portal with authorised-scope collection, versioned rule evaluation, finding management and remediation reporting."
