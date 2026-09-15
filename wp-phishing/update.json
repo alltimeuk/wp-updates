@@ -1,15 +1,15 @@
 {
   "name": "WP Phishing",
   "slug": "wp-phishing",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "author": "Alltime Technologies Ltd",
   "author_homepage": "https://alltimetech.co.uk",
   "requires": "6.6",
   "tested": "6.6",
   "requires_php": "8.2",
-  "download_url": "https://alltimeuk.github.io/wp-updates/wp-phishing/wp-phishing-v0.1.1.zip",
-  "sha256": "2d01a42ff303a8932f291bce518a0c9c0a99e739ad2a0f412529e88e5951f41b",
-  "last_updated": "2026-09-07",
+  "download_url": "https://alltimeuk.github.io/wp-updates/wp-phishing/wp-phishing-v0.2.0.zip",
+  "sha256": "2d00169792affe530581686091ce4fa8cfb4083e0ff2b193bba534c0fb1c929a",
+  "last_updated": "2026-09-15",
   "homepage": "https://alltimetech.co.uk",
   "sections": {
     "description": "Self-service and consultant-operated phishing simulation and human-risk assessment platform."
